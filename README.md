@@ -27,6 +27,8 @@ I'm a computer science student with a passion for DevOps and full-stack developm
 
 ![tanyabhatnagar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanyabhatnagar&theme=vue-dark&hide_border=true)
 
+![tanyabhatnagar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyabhatnagar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!--[Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanyabhatnagar&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
