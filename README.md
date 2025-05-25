@@ -23,9 +23,9 @@ I'm a computer science student with a passion for DevOps and full-stack developm
 
 #
 
-### 📊 Stats
+<!--### 📊 Stats
 
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanyabhatnagar&show_icons=true&theme=gruvbox)
+<!--[Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanyabhatnagar&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
